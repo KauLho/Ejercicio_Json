@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lista_de_la_compra>
+<producto nombre="Leche">
+<supermercados>
+<supermercado nombre="Mercadona" direccion="Av. de la Democracia, 3">
+<geolocalizacion latitud="40.38293898434755" longitud="-3.6258071729856525"/>
+<productos>
+<producto nombre="Leche semidesnatada Hacendado" oferta="true">
+<vigencia inicio="2023-04-07" fin="2023-04-13"/>
+<habitual>false</habitual>
+<unidades>1</unidades>
+<unidad_medida>Litro</unidad_medida>
+<precio>0.85</precio>
+<adquirido>false</adquirido>
+</producto>
+<producto nombre="Leche semidesnatada Pascual" oferta="false">
+<vigencia/>
+<habitual>true</habitual>
+<unidades>1</unidades>
+<unidad_medida>Litro</unidad_medida>
+<precio>1.05</precio>
+<adquirido>false</adquirido>
+</producto>
+</productos>
+</supermercado>
+<supermercado nombre="Carrefour" direccion="Av de las Suertes, s/n">
+<geolocalizacion latitud="40.36814959094298" longitud="-3.601161972985976"/>
+<productos>
+<producto nombre="Leche semidesnatada Carrefour" oferta="false">
+<vigencia/>
+<habitual>true</habitual>
+<unidades>1</unidades>
+<unidad_medida>Litro</unidad_medida>
+<precio>0.89</precio>
+<adquirido>true</adquirido>
+</producto>
+</productos>
+</supermercado>
+</supermercados>
+</producto>
+</lista_de_la_compra>
